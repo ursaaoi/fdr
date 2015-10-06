@@ -3,9 +3,9 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
-## Opensource Implementations
+## Popular Open Source Implementations
 - [OpenCV](http://opencv.org/) - Open Source Computer Vision
-- [OpenBR](http://openbiometrics.org/) - Open Sourcr Biometric Recognition
+- [OpenBR](http://openbiometrics.org/) - Open Source Biometric Recognition
 
 ## Matlab Resources
 - [Mathworks](http://www.mathworks.com/) - Matlab Homepage
